@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   TEMA TERPUSAT — ubah warna di sini, seluruh situs ikut berubah.
+   Palet: warm amber / terracotta / cream (masakan rumah).
+   ============================================================ */
+:root {
+  --color-cream: #FFF8EE;
+  --color-cream-dark: #F7EAD3;
+  --color-cream-deeper: #EFDCC0;
+  --color-terracotta: #C2572B;
+  --color-terracotta-dark: #9E421F;
+  --color-amber: #E8A33D;
+  --color-cocoa: #3B2A20;
+  --color-cocoa-soft: #8A6F5C;
+}
+
+html { scroll-behavior: smooth; }
+body { background: var(--color-cream); color: var(--color-cocoa); }
+.line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }

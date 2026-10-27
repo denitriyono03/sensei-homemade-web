@@ -1,0 +1,115 @@
+{
+  "currency": "IDR",
+  "items": [
+    {
+      "id": "rendang-sapi",
+      "name": "Rendang Sapi Slow-Cook",
+      "price": 85000,
+      "category": "Signature",
+      "tags": ["Best Seller", "Pedas Sedang", "Dimasak 6 Jam"],
+      "description": "Daging sapi pilihan dimasak perlahan 6 jam dengan santan dan 12 rempah, sampai bumbunya meresap dan dagingnya empuk, bukan sekadar pedas.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi + nasi hangat",
+      "isFeatured": true
+    },
+    {
+      "id": "ayam-goreng-lengkuas",
+      "name": "Ayam Goreng Lengkuas",
+      "price": 48000,
+      "category": "Ayam",
+      "tags": ["Best Seller", "Kriuk", "Favorit Anak"],
+      "description": "Ayam kampung ungkep lengkuas, digoreng sampai luarnya kriuk dan dalamnya tetap juicy. Disajikan dengan sambal terasi dan lalapan segar.",
+      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi + nasi hangat",
+      "isFeatured": true
+    },
+    {
+      "id": "nasi-liwet-solo",
+      "name": "Nasi Liwet Solo + Ayam Suwir",
+      "price": 55000,
+      "category": "Signature",
+      "tags": ["Gurih", "Komplit"],
+      "description": "Nasi liwet gurih santan dan daun salam, ayam suwir, telur pindang, labu siam, dan areh santan kental ala dapur Solo.",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi komplit",
+      "isFeatured": true
+    },
+    {
+      "id": "soto-ayam-kampung",
+      "name": "Soto Ayam Kampung",
+      "price": 45000,
+      "category": "Kuah",
+      "tags": ["Hangat", "Segar"],
+      "description": "Kuah kunyit bening yang ringan tapi beraroma, ayam kampung suwir, soun, telur, dan koya gurih. Cocok untuk hari hujan maupun saat kurang enak badan.",
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 mangkuk + nasi",
+      "isFeatured": false
+    },
+    {
+      "id": "gudeg-jogja",
+      "name": "Gudeg Jogja + Krecek",
+      "price": 52000,
+      "category": "Signature",
+      "tags": ["Manis Gurih", "Khas Jogja"],
+      "description": "Nangka muda dimasak semalaman sampai manisnya lembut, disajikan dengan krecek pedas, telur bacem, dan ayam suwir.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi + nasi",
+      "isFeatured": false
+    },
+    {
+      "id": "ikan-bakar-jimbaran",
+      "name": "Ikan Bakar Jimbaran + Sambal Matah",
+      "price": 78000,
+      "category": "Laut",
+      "tags": ["Pedas Segar", "Bakar Arang"],
+      "description": "Ikan segar pasar pagi dibakar arang dengan bumbu oles kecap dan bawang, disajikan dengan sambal matah yang segar dan jeruk limau.",
+      "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi + nasi + lalapan",
+      "isFeatured": true
+    },
+    {
+      "id": "sayur-lodeh-bacem",
+      "name": "Sayur Lodeh + Tempe Bacem",
+      "price": 38000,
+      "category": "Sayur",
+      "tags": ["Rumahan", "Tidak Pedas"],
+      "description": "Sayur lodeh santan ringan dengan labu, kacang panjang, dan melinjo, ditemani tempe bacem manis gurih yang dimasak sampai meresap.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi + nasi",
+      "isFeatured": false
+    },
+    {
+      "id": "tumis-buncis-balado",
+      "name": "Tumis Buncis + Telur Balado",
+      "price": 35000,
+      "category": "Sayur",
+      "tags": ["Pedas", "Hemat"],
+      "description": "Buncis segar ditumis bawang dengan telur balado merah yang tidak terlalu berminyak. Menu andalan untuk makan siang rumahan.",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c429c37?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 porsi + nasi",
+      "isFeatured": false
+    },
+    {
+      "id": "klepon-gula-merah",
+      "name": "Klepon Gula Merah",
+      "price": 28000,
+      "category": "Dessert",
+      "tags": ["Manis", "Kue Tradisional"],
+      "description": "Klepon kenyal isi gula merah cair, dibalur kelapa parut segar. Dibuat setiap pagi, jadi stoknya terbatas.",
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=1200&auto=format&fit=crop",
+      "serves": "Isi 8 buah",
+      "isFeatured": false
+    },
+    {
+      "id": "es-cendol-dawet",
+      "name": "Es Cendol Dawet",
+      "price": 25000,
+      "category": "Dessert",
+      "tags": ["Segar", "Minuman"],
+      "description": "Cendol hijau pandan buatan sendiri, santan segar, dan gula aren cair. Manisnya pas, tidak membuat enek.",
+      "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?q=80&w=1200&auto=format&fit=crop",
+      "serves": "1 gelas besar",
+      "isFeatured": false
+    }
+  ]
+}

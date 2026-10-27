@@ -1,0 +1,24 @@
+{
+  "chef": {
+    "name": "Chef Sensei",
+    "role": "Pendiri & Kepala Dapur Sensei Homemade",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?q=80&w=1200&auto=format&fit=crop",
+    "bio": "Chef Sensei belajar memasak dari dapur ibunya, lalu mengasah tekniknya di dapur profesional selama bertahun-tahun. Ia kembali ke masakan rumah karena percaya rasa terbaik lahir dari kesabaran, bukan dari kecepatan.",
+    "quote": "Masakan yang baik tidak perlu mewah. Cukup jujur, hangat, dan dimasak dengan niat."
+  },
+  "concept": "Sensei Homemade adalah dapur masakan rumah yang dimasak setiap hari, dalam porsi rumahan, dengan bahan segar dari pasar pagi. Tidak ada stok masakan berhari-hari, tidak ada rasa yang dibuat-buat.",
+  "values": [
+    { "title": "Bahan Segar Pasar Pagi", "description": "Sayur, daging, dan ikan dibeli setiap pagi. Kalau bahan hari itu kurang bagus, menunya diganti, bukan dipaksakan." },
+    { "title": "Dimasak Harian", "description": "Setiap pesanan dimasak di hari yang sama. Kuah, sambal, dan lauk tidak dipanaskan ulang berkali-kali." },
+    { "title": "Rasa Rumahan yang Seimbang", "description": "Tidak terlalu asin, tidak terlalu manis, tidak terlalu berminyak. Rasa yang nyaman dimakan setiap hari." },
+    { "title": "Porsi Keluarga", "description": "Porsi dibuat seperti untuk keluarga sendiri: cukup, tidak pelit, dan selalu ada nasi hangat." }
+  ],
+  "stats": [
+    { "label": "Resep keluarga", "value": "120+" },
+    { "label": "Porsi terantar", "value": "25.000+" },
+    { "label": "Rating pelanggan", "value": "4,9 / 5" },
+    { "label": "Tahun memasak", "value": "12 tahun" }
+  ],
+  "hours": "Senin - Sabtu, 08.00 - 20.00 WIB. Minggu khusus pre-order.",
+  "delivery": "Antar di area kota dan sekitarnya. Pesan sebelum pukul 15.00 untuk pengiriman di hari yang sama."
+}

@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "slug": "rahasia-rendang-6-jam",
+      "title": "Rahasia Rendang 6 Jam Chef Sensei",
+      "excerpt": "Kenapa rendang yang enak tidak bisa diburu-buru? Ini cerita tentang api kecil, santan yang sabar, dan rempah yang tidak boleh dikompromikan.",
+      "date": "2026-10-20",
+      "readingTime": "5 menit",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1200&auto=format&fit=crop",
+      "author": "Chef Sensei",
+      "content": [
+        "Rendang yang baik tidak lahir dari api besar. Di dapur Sensei Homemade, rendang dimasak dengan api kecil selama kurang lebih enam jam, sampai santan pecah menjadi minyak yang harum dan bumbu berubah menjadi rendang yang gelap dan pekat.",
+        "Rempahnya ada dua belas macam, semuanya disangrai dan dihaluskan di hari yang sama. Tidak ada bumbu instan, karena bumbu instan membuat rasa rendang menjadi datar dan seragam.",
+        "Tanda rendang sudah jadi bukan dari warnanya saja, tapi dari dagingnya: saat ditekan dengan sendok, seratnya terpisah dengan lembut, tapi tidak hancur. Itulah kenapa kami tidak pernah memotong waktu masak, meskipun pesanan sedang ramai."
+      ]
+    },
+    {
+      "slug": "kenapa-masakan-rumah-berbeda",
+      "title": "Kenapa Masakan Rumah Terasa Berbeda?",
+      "excerpt": "Bukan soal resep rahasia, tapi soal cara memasak yang tidak mengejar kecepatan: bahan segar, porsi wajar, dan rasa yang dibuat untuk keluarga sendiri.",
+      "date": "2026-10-12",
+      "readingTime": "4 menit",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200&auto=format&fit=crop",
+      "author": "Chef Sensei",
+      "content": [
+        "Banyak pelanggan bertanya, kenapa rasa masakan Sensei Homemade terasa seperti masakan di rumah sendiri. Jawabannya sederhana: karena memang dimasak seperti untuk rumah sendiri.",
+        "Bahan dibeli di pasar pagi, bukan stok beku berhari-hari. Sayur dipotong setelah pesanan masuk, bukan sejak pagi dan dibiarkan layu. Kuah dibuat setiap hari, bukan dipanaskan ulang berkali-kali.",
+        "Kami juga menjaga rasa agar tidak berlebihan: tidak terlalu asin, tidak terlalu manis, dan tidak terlalu berminyak. Masakan rumah yang baik adalah masakan yang bisa dimakan setiap hari tanpa membuat bosan."
+      ]
+    },
+    {
+      "slug": "meal-prep-mingguan-ala-sensei",
+      "title": "Meal Prep Mingguan ala Sensei: Praktis Tanpa Membosankan",
+      "excerpt": "Panduan sederhana menyusun menu seminggu: satu lauk utama, satu sayur, dan satu pendamping yang bisa dirotasi tanpa terasa itu-itu saja.",
+      "date": "2026-10-05",
+      "readingTime": "6 menit",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=1200&auto=format&fit=crop",
+      "author": "Chef Sensei",
+      "content": [
+        "Meal prep sering gagal bukan karena malas, tapi karena menunya terlalu ambisius. Mulailah dari pola yang sederhana: Senin dan Kamis lauk ayam, Selasa dan Jumat lauk sapi atau ikan, Rabu dan Sabtu menu sayur dan telur.",
+        "Kuncinya ada di pendamping: sambal yang berbeda, lalapan yang segar, dan satu lauk kering seperti tempe bacem bisa mengubah rasa menu yang sama menjadi terasa baru.",
+        "Di Sensei Homemade, paket mingguan bisa dipesan di muka dan diantar per hari, jadi makanan yang sampai di meja selalu baru dimasak, bukan makanan yang sudah disimpan seminggu di kulkas."
+      ]
+    },
+    {
+      "slug": "dari-dapur-kecil-ke-meja-keluarga",
+      "title": "Dari Dapur Kecil ke Meja Keluarga",
+      "excerpt": "Cerita awal Sensei Homemade: berawal dari pesanan tetangga, satu wajan, dan keyakinan bahwa masakan rumah yang jujur akan selalu dicari.",
+      "date": "2026-09-28",
+      "readingTime": "4 menit",
+      "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1200&auto=format&fit=crop",
+      "author": "Chef Sensei",
+      "content": [
+        "Sensei Homemade berawal dari dapur kecil dan pesanan pertama dari tetangga yang penasaran dengan rendang yang biasa kami masak untuk keluarga.",
+        "Dari sana pesanan bertambah dari mulut ke mulut. Kami tidak langsung membuka tempat besar, karena kami ingin menjaga satu hal: setiap porsi tetap dimasak dengan cara yang sama seperti hari pertama.",
+        "Hari ini dapurnya lebih besar, tapi prinsipnya tetap: bahan segar, dimasak harian, dan rasa yang bisa dipertanggungjawabkan. Terima kasih untuk setiap keluarga yang sudah mempercayakan meja makannya kepada kami."
+      ]
+    }
+  ]
+}
